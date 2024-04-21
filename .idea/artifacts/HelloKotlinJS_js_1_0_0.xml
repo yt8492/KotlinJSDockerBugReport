@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelloKotlinJS-js-1.0.0">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="HelloKotlinJS-js-1.0.0.jar">
+      <element id="module-output" name="HelloKotlinJS.jsMain" />
+    </root>
+  </artifact>
+</component>
